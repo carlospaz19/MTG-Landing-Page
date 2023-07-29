@@ -39,3 +39,9 @@
   .autor p {
     color: white;
   }
+
+  @media only screen and (max-width: 390px) {
+    .footer-links a {
+      font-size: small;
+    }
+  }
